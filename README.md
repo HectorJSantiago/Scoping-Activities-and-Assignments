@@ -1,8 +1,10 @@
 <h1>Scoping Activities and Assignments</a> <a </a></h1>
 <h1>PCI DSS - Data Flow Narrative & Data Flow Diagrams</h1>
+  
+<h2>Description</h2> 
 PCI Data Flow Narrative
   
-This project is a visual representation of a PCI-compliant payment process tailored for a call center environment.
+This project encompasses visual representations of PCI-compliant payment processes tailored for 1) a call center environment and 2) a point of sale environment.
 
 Steps Included: 
 1. The call center sends a payment link to the customer
