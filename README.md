@@ -16,7 +16,7 @@
          2. Data is encrypted
          3. Payment is sent to processor for approval
          4. Approval is returned
-         5. Transaction data is stored</b>
+         5. Transaction data is stored
 
 <h2>Data Flow Diagram for a Call Center Environment</h2>
 
