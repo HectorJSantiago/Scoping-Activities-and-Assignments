@@ -2,7 +2,7 @@
 
 <h2>PCI DSS - Data Flow Narrative & Data Flow Diagrams</h2>
   
-- <b>PCI-compliant payment processes tailored for 1) a call center environment</b>
+- <b>DFD for 1) a call center environment</b>
     - [PCI-compliant payment processes tailored for 1) a call center environment](https://drive.google.com/file/d/1g78Kox5zkEI-atNEWhHVHtb1gIjnOZ4I/view?usp=sharing)
     - <b>Steps Included: 
          1. The call center sends a payment link to the customer
