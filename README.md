@@ -20,5 +20,5 @@
 
 <h2>AOC Tracker for Third Party Service Providers</h2>
 
-- <b>Gathering Attestations of Compliance for Third Party Service Providers is part of the process and I create tools like this: </b>
+- <b>Gathering Attestations of Compliance for Third Party Service Providers (TPSP's) is part of the process and I create tools like this: </b>
     - [AOC Tracker for Third Party Service Providers](https://docs.google.com/spreadsheets/d/1KdL5iSKDRnMt-L_g_-uluQUZCUwQbacE/edit?usp=sharing&ouid=106106570101579448769&rtpof=true&sd=true)
