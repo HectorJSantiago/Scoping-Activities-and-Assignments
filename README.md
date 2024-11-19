@@ -1,4 +1,4 @@
-<h1>Scoping Activities and Assignments</a> <a </a></h1>
+<h1>Scoping Activities and Assessments</a> <a </a></h1>
 
 <h2>PCI DSS - Data Flow Narrative & Data Flow Diagrams</h2>
   
