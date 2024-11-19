@@ -9,7 +9,8 @@
          2. Payment is processed via Paysafe
          3. Authorization takes via the acquirer and card brand.
          4. Invoice generation for the customer</b>
- - [PCI-compliant payment processes tailored for 2) a point of sale environment](https://drive.google.com/file/d/1ud7V6aFNyd1fWb7BrId-qn636vGv3z-J/view?usp=sharing)
+- <b>PCI-compliant payment processes tailored for 2) a point of sale environment</b>
+    - [Data Flow Diagram for a point of sale environment](https://drive.google.com/file/d/1ud7V6aFNyd1fWb7BrId-qn636vGv3z-J/view?usp=sharing)
    
  - This project encompasses visual representations of PCI-compliant payment processes tailored for 1) a call center environment and 2) a point of sale environment.
 
