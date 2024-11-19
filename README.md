@@ -1,6 +1,6 @@
 <h1>Scoping Activities and Assignments</a> <a </a></h1>
 
-  <h2>PCI DSS - Data Flow Narrative & Data Flow Diagrams</h2>
+<h2>PCI DSS - Data Flow Narrative & Data Flow Diagrams</h2>
   
 - <b>PCI-compliant payment processes tailored for 1) a call center environment and 2) a point of sale environment</b>
  - [PCI-compliant payment processes tailored for 1) a call center environment](https://drive.google.com/file/d/1g78Kox5zkEI-atNEWhHVHtb1gIjnOZ4I/view?usp=sharing)
