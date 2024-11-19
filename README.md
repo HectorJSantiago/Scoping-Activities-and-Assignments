@@ -13,6 +13,4 @@ Steps Included:
 
 <h2>Data Flow Diagram for a Call Center Environment</h2>
 
-<p align="center">
-Launch the DFD: <br/>
-<img src="[https://i.imgur.com/vk3p8Ay.png](https://drive.google.com/file/d/1RpwBDgC6g8VMtoScs0AYQe9NN0KC4eiw/view?usp=sharing)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
