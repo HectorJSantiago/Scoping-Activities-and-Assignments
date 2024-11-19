@@ -20,5 +20,5 @@
 
 <h2>AOC Tracker for Third Party Service Providers</h2>
 
-- <b>Collecting and tracking Attestations of Compliance (AoCs) from Third-Party Service Providers (TPSPs) is an essential part of the process, and I develop tools specifically designed for this purpose:: </b>
+- <b>Collecting and tracking Attestations of Compliance (AoCs) from Third-Party Service Providers (TPSPs) is an essential part of the process, and I develop tools specifically designed for this purpose: </b>
     - [AOC Tracker for Third Party Service Providers](https://docs.google.com/spreadsheets/d/1KdL5iSKDRnMt-L_g_-uluQUZCUwQbacE/edit?usp=sharing&ouid=106106570101579448769&rtpof=true&sd=true)
