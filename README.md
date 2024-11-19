@@ -20,5 +20,5 @@
 
 <h2>AOC Tracker for Third Party Service Providers</h2>
 
-- <b>As I am going over merchant service agreements and attestations of compliance I keep track of important dates - such as when AOC’s need to be requested from Third Party Service Providers -  using a  tools I create like this: </b>
+- <b>Gathering Attestations of Compliance for Third Party Service Providers is part of the process and I create tools like this: </b>
     - [AOC Tracker for Third Party Service Providers](https://docs.google.com/spreadsheets/d/1KdL5iSKDRnMt-L_g_-uluQUZCUwQbacE/edit?usp=sharing&ouid=106106570101579448769&rtpof=true&sd=true)
